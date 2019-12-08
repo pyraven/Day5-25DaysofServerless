@@ -5,7 +5,7 @@ Have a look at the API https://aka.ms/holiday-wishes to find a sample of message
 
 Solution to Day 5 of the #25DaysOfServerless. This solution use a GCP Cloud Function.
 
-I uploaded the logic in this repo to a Cloud with default settings after I enabled the Cloud Language API. I didn't have to add any logic to detect the language since that is automatic on GCP. However, there is, at the moment, limit to the languages that will work with the API. Current list here: https://cloud.google.com/natural-language/docs/languages
+I uploaded the logic in this repo to a Cloud with default settings (function to execute set to main of course) after I enabled the Cloud Language API. I didn't have to add any logic to detect the language since that is automatic on GCP. However, there is, at the moment, limit to the languages that will work with the API. Current list here: https://cloud.google.com/natural-language/docs/languages
 
 Preview:
 ![alt text](screenshot.png)
